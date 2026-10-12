@@ -7,4 +7,4 @@ preview_urls = false
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "6e4108d88a5248519b1519c11b550ec1"				#KV数据库id
+id = "74a2a842ad834d43b14d98ab4d78bc25"				#KV数据库id
